@@ -27,7 +27,7 @@ I enjoy learning and creating something new every day.
 `Python` • `Django` • `HTML` • `CSS` • `Tailwind CSS`  
 
 **Tools & Technologies:**  
-`Linux` • `Git` • `Networking` • `VS Code` • `Docker (Learning)` • `AWS`  
+`Linux` • `Git` • `Networking` • `VS Code` • `Docker ` •  `Docker (Learning)` • `AWS`  
 
 **Creative Tools:**  
 `Unreal Engine` • `Photoshop ` • `Canva`  
